@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colina_camine_array">
+    <item>Caminul 9</item>
+    <item>Caminul 10</item>
+    <item>Caminul 11</item>
+    <item>Caminul 12</item>
+    <item>Caminul 13</item>
+    <item>Caminul 14</item>
+    <item>Caminul 15</item>
+    <item>Caminul 16</item>
+    <!-- Adăugați aici numele tuturor caminelor de pe Colina -->
+</string-array>
+</resources>

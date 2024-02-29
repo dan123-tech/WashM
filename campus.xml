@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="campus_array">
+        <item>Memo</item>
+        <item>Colina</item>
+    </string-array>
+</resources>
